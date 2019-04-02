@@ -5,3 +5,10 @@ C:\Users\Natalia\source\repos\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
 C:\Users\Natalia\source\repos\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
 C:\Users\Natalia\source\repos\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
 C:\Users\Natalia\source\repos\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb
+C:\epam\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe.config
+C:\epam\GuessNumber\GuessNumber\bin\Debug\GuessNumber.exe
+C:\epam\GuessNumber\GuessNumber\bin\Debug\GuessNumber.pdb
+C:\epam\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csprojResolveAssemblyReference.cache
+C:\epam\GuessNumber\GuessNumber\obj\Debug\GuessNumber.csproj.CoreCompileInputs.cache
+C:\epam\GuessNumber\GuessNumber\obj\Debug\GuessNumber.exe
+C:\epam\GuessNumber\GuessNumber\obj\Debug\GuessNumber.pdb

@@ -22,6 +22,10 @@ namespace GuessNumber.Users
         {
             _player_1 = new Player();
             _playerComputer = new PlayerComputer();
+        
+        }
+        public void Start_Game()
+        {
             have_interval_haveHumber();
             // Получаем количество попыток, которое зависит от уровня человека
             attempts = AssignAttempts.CountAttempts(_player_1.level, max, min);
@@ -36,7 +40,6 @@ namespace GuessNumber.Users
             Console.Read();
 
         }
-
         private void have_interval_haveHumber()
         {
             //получаем промежуток
